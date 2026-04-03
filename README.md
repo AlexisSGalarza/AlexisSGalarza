@@ -1,77 +1,68 @@
-<br clear="both">
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/javier-alexis-su%C3%A1rez-galarza-935409310/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="alexiis5687" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=alexiis5687&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
-  </a>
-  <a href="ale126gala.36@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=ale126gala.36@&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
-  </a>
+
+<img width="72" height="72" src="https://avatars.githubusercontent.com/AlexisSGalarza" style="border-radius:50%;" alt="avatar"/>
+
+# Alexis Galarza
+
+🟢 Software Engineering student · Backend Developer · Mexico
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-alexis-su%C3%A1rez-galarza-935409310/)
+[![Discord](https://img.shields.io/badge/Discord-alexiis5687-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com)
+[![Gmail](https://img.shields.io/badge/Gmail-ale126gala.36%40-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ale126gala.36@gmail.com)
+![Backend-first](https://img.shields.io/badge/Backend--first-000?style=flat-square)
+![Full--stack aspiring](https://img.shields.io/badge/Full--stack%20aspiring-000?style=flat-square)
+
 </div>
 
-###
+---
 
-<h1 align="center">hey there 👋</h1>
+### 👤 About
+```text
+🔭  Studying Software Engineering, focused on backend systems and APIs
+🛠  Building things with Django, PostgreSQL & Python
+📚  Exploring AWS, cloud architecture & web development
+⚡  Watching tech videos, solving challenges, and exploring new technologies
+🚀  On a journey to become a Full-Stack Developer — backend first
+```
 
-###
+---
 
-<h3 align="left">👩‍💻  About Me</h3>
+### 🛠 Tech Stack
 
-###
+**Backend**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-<p align="left">I'm Alexis Galarza from Mexico<br><br>- 🔭I’m currently studying *Software Engineering*<br>- 📚 I'm learning **Python, AWS, cloud and Web Development** <br>- ⚡ In my free time I like watching tech videos, solving coding challenges, and exploring new technologies<br><br>💡 Aspiring Developer with a passion for learning<br><br>🚀 On a journey to become a Full-Stack Developer</p>
+**Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-###
+**Frontend & Mobile**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 
-<h3 align="left">🛠 Language and tools</h3>
+**Systems**
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
-###
+---
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-</div>
-
-###
-
-<br clear="both">
+### 📊 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexisSGalarza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlexisSGalarza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexisSGalarza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlexisSGalarza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=dark&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<br clear="both">
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexisSGalarza/AlexisSGalarza/output/pacman-contribution-graph-dark.svg">
@@ -79,10 +70,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AlexisSGalarza/AlexisSGalarza/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
 <div align="center">
-  <img src="https://profile-counter.glitch.me/AlexisSGalarza/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/AlexisSGalarza/count.svg?" />
 </div>
-
-###
